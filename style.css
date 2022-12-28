@@ -38,7 +38,7 @@ span {
 }
 
 .container {
-    background-image: url(/Images/bg.jpg);
+    background-image: url(../Images/bg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -71,7 +71,7 @@ span {
     outline: 8px inset purple;
 }
 .container2 {
-    background-image: url(/Images/bg2.jpg);
+    background-image: url(../Images/bg2.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -93,7 +93,7 @@ span {
 }
 
 .container3 {
-    background-image: url(/Images/bg3.jpg);
+    background-image: url(../Images/bg3.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -123,7 +123,7 @@ span {
 }
 
 .container4 {
-    background-image: url(/Images/bg4.jpg);
+    background-image: url(../Images/bg4.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
